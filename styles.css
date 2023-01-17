@@ -1,0 +1,17 @@
+body {
+  max-width: 320px;
+  margin: auto;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  margin: 50px;
+}
+.snoop {
+  filter: blur(2px) sepia(70%) contrast(100%);
+}
+.trippie {
+  filter: brightness(1) drop-shadow(10px 10px 6px red) hue-rotate(20deg)
+  saturate(160%);
+}
